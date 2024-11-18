@@ -32,22 +32,37 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+experience:
+  - 2019-Now 
+    - Research Associate Professor 
+    - School of Biomedical Engineering 
+    - Shanghai Jiao Tong University
+  - 2023-2023
+    - Visiting Scientist
+    - Applied Physics Department 
+    - Yale University
+  - 2016-2018
+    -Visiting Scientist
+    -Department of Biomedical Engineering
+    -Johns Hopkins University
+  - 2011-2019
+    -Assistant, Associate Professor
+    -Institute of Biomedical Engineering
+    -School of Communication and Information Engineering (SCIE) 
+    -Shanghai University
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Biomedical Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2006-2011
+    - course: Research Trainee, Biomedical Engineering 
+      institution: Johns Hopkins University
+      year: 2008-2010
+    - course: Bachelor of Science, Biomedical Engineering 
+      institution: Shanghai Jiao Tong University
+      year: 2002-2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,7 +71,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'pengmiao@sjtu.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -65,7 +80,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/randommatrixoptics2019
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
