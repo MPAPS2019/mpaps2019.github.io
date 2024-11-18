@@ -46,6 +46,8 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+      Group Wechat: qr.png
+
     design:
       columns: '1'
 
