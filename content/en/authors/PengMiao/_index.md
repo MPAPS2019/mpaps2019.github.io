@@ -94,57 +94,57 @@ email: ''
 
 Peng Miao is a professor of biomedical engineering at the Shanghai Jiao Tong University.
 
-# Education Record
+## Education Record
 
-## Peng Miao, Ph.D.
+### Peng Miao, Ph.D.
 
-### **Shanghai Jiao Tong University**  
+#### **Shanghai Jiao Tong University**  
 **Ph.D., Biomedical Engineering**  
 *Sep 2006 – Nov 2011*  
 Supervisors: Prof. Shanbao Tong and Prof. Yisheng Zhu  
 **Shanghai, China**
 
-### **Johns Hopkins University**  
+#### **Johns Hopkins University**  
 **Research Trainee, Biomedical Engineering**  
 *Sep 2008 – Mar 2010*  
 Supervisor: Prof. Nitish Thakor  
 **Baltimore, Maryland, U.S.A.**
 
-### **Shanghai Jiao Tong University**  
+#### **Shanghai Jiao Tong University**  
 **Bachelor of Science, Biomedical Engineering**  
 *Sep 2002 – Jul 2006*  
 **Shanghai, China**
 
 ---
 
-# Experience
+## Experience
 
-### **Research Associate Professor**  
+#### **Research Associate Professor**  
 **School of Biomedical Engineering, Shanghai Jiao Tong University**  
 *2019 – Present*  
 
-### **Visiting Scientist**  
+#### **Visiting Scientist**  
 **Applied Physics Department, Yale University**  
 *2023 – 2023*
 
-### **Visiting Scientist**  
+#### **Visiting Scientist**  
 **Department of Biomedical Engineering, Johns Hopkins University**  
 *2016 – 2018*
 
-### **Assistant, Associate Professor**  
+#### **Assistant, Associate Professor**  
 **Institute of Biomedical Engineering, School of Communication and Information Engineering (SCIE), Shanghai University**  
 *2011 – 2019*
 
 ---
 
-# Teaching Activities
+## Teaching Activities
 
 - **2012-2016**: Medical Instrumentation  
 - **2013-2016**: Medical Signal Processing  
 
 ---
 
-# Awards
+## Awards
 
 - **Nov 2016**: Natural Science Award (Second Class)  
   *“Detection and Analysis Methods for Medical Information of Cardio-Cerebrovascular”* (Shanghai Government)  
@@ -156,32 +156,32 @@ Supervisor: Prof. Nitish Thakor
 
 ---
 
-# Grants
+## Grants
 
-### **2021-2024**  
+#### **2021-2024**  
 - **Advanced Endoscopic Imaging System** *(PI, 1500K RMB)*  
   Agency: CMD Medical Device Co. Ltd.  
 
 - **Multi-Modality Endoscope Imaging System and Application** *(PI, 1500K RMB)*  
   Agency: Outai Medical Equipment Co., Ltd.  
 
-### **2021-2023**  
+#### **2021-2023**  
 - **Intraoperative Laparoscopic System with Blood Flow and sO2 Functions** *(Co-PI, 250K RMB)*  
   Agency: Med-X Research Fund of Shanghai Jiao Tong University  
 
 - **Imaging-Based Non-Contact SpO2 Monitoring System Development** *(PI, 250K RMB)*  
   Agency: Medtronic, Inc.  
 
-### **2020-2021**  
+#### **2020-2021**  
 - **High-Resolution Blood Flow and sO2 Imaging System: Design and Prototype** *(PI, 150K RMB)*  
   Agency: Medtronic, Inc.  
 
-### Additional Grants  
+#### Additional Grants  
 (Details omitted for brevity; please refer to full grant list for specifics.)
 
 ---
 
-# Professional Activities
+## Professional Activities
 
 - **Membership**: IEEE, SPIE, IEEE EMBS Shanghai Chapter  
 - **Journal Reviewer**:  
@@ -195,27 +195,27 @@ Supervisor: Prof. Nitish Thakor
 
 ---
 
-# Publications
+## Publications
 
-### **Book**
+#### **Book**
 
 - *Health IoT*  
   Published: 2015-11-01, Shanghai Science and Technology Literature Press  
   **Deputy Editor** (Editor-in-Chief: Ren Chuancheng), ISBN: 9787543968523
 
-### **Book Chapters**
+#### **Book Chapters**
 
 - *Yaohui Tang, Yaning Li, Xiaojie Lin, Peng Miao, Yongting Wang, Guo-Yuan Yang*: **Cerebral Angiogenesis**  
   Chapter: *Stimulation of Cerebral Angiogenesis by Gene Delivery* (Pages: 317-329), Jan 2014  
 
-### **Magazine Articles**
+#### **Magazine Articles**
 
 1. Nan Li*, Peng Miao: **Let There Be Light: A Tutorial on Optogenetics**  
    *IEEE Pulse*, 2014; 5(4): 55-59  
 2. Shanbao Tong, Peng Miao: **Full-Field Imaging of Cerebral Blood Flow in Freely Moving Animals**  
    *SPIE Newsroom*, 2012 (May 17)  
 
-### Journal Publications
+#### Journal Publications
 
 1. Danyang Che, Danlei Qiao, Yiting Cao, Yingjie Zhang, Qimin Zhou, Shanbao Tong, **Peng Miao**, Jibo Zhou. (2024). Changes in choroidal hemodynamics of form-deprivation myopia in Guinea pigs. *Biochemical and Biophysical Research Communications*, 692, 149348.
 
