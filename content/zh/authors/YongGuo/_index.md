@@ -11,7 +11,7 @@ authors:
   YongGuo
 
 # Role/position
-role: PhD 学生
+role: PhD 2024
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - PhD Student
+  - Alumni
 
 
 superuser: false
