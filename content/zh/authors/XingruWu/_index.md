@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 郭勇
+title: 吴幸茹
 
 # Full name (for SEO)
-first_name: 勇
-last_name: 郭
+first_name: 幸茹
+last_name: 吴
 
 # Username (this should match the folder name)
 authors:
-  YongGuo
+  WuXingru
 
 # Role/position
-role: PhD 2024
+role: MS student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - Alumni
+  - MS Student
 
 
 superuser: false
