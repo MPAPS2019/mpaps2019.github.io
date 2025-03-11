@@ -11,7 +11,7 @@ authors:
   DanleiQiao
 
 # Role/position
-role: PhD student
+role: PhD 2024
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - PhD Student
+  - Alumni
 
 
 # Is this the primary user of the site?
@@ -37,7 +37,7 @@ education:
   courses:
     - course: Ph.D. in Biomedical Engineering
       institution: Shanghai Jiao Tong University
-      year: 2018-now
+      year: 2018-2024
     - course: Master in Biomedical Engineering
       institution: Northwestern University
       year: 2020-2023
