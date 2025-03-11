@@ -11,7 +11,7 @@ authors:
   DanleiQiao
 
 # Role/position
-role: PhD 2024
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - Alumni
+  - PhD Student
 
 
 superuser: false
