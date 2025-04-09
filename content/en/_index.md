@@ -59,7 +59,7 @@ newsBlock:
   block: collection
   content:
     title: Latest News
-    count: 5
+    count: 3
     filters:
       author: ''
       category: ''
