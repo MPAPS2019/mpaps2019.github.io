@@ -49,9 +49,11 @@ url_video: ''
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
 publication:
-publication_short: ""
 
 
+publication_short: "ASME DMD2021"
+
+doi: "10.1115/DMD2021-84812"
 
 
 author_notes:
@@ -59,7 +61,7 @@ author_notes:
 #- "Equal contribution"
 #date: "2015-09-01T00:00:00Z"
 #date: "15 January 2024-01-15T00:00:00Z"
-doi: ""
+
 
 
 abstract: 
