@@ -45,7 +45,7 @@ url_video: ''
 publication: "2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3919–3922"
 
 publication_short: "EMBC 2019"
-
+page: "pp. 3919–3922"
 
 
 

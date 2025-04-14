@@ -21,7 +21,8 @@
       {{ end }}
 
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}}.
+    {{- $item.Params.publication_short | markdownify -}}
+    {{- with $item.Params.page }} <span>{{ . }}</span>{{ end }}.
   {{ else if $item.Params.publication }}
     {{- $item.Params.publication | markdownify -}}.
   {{ end }}
