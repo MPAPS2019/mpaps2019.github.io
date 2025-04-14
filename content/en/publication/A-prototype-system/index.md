@@ -42,8 +42,9 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication:
-publication_short: ""
+publication: "2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3919–3922"
+
+publication_short: "EMBC 2019"
 
 
 

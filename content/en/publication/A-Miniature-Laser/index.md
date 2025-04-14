@@ -53,7 +53,7 @@ publication:
 
 publication_short: "ASME DMD2021"
 
-doi: "10.1115/DMD2021-84812"
+doi:
 
 
 author_notes:
