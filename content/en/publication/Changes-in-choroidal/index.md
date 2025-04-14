@@ -45,7 +45,7 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication:
+publication: "Biochemical and Biophysical Research Communications,Volume 692"
 publication_short: ""
 
 

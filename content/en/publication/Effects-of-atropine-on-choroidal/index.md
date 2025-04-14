@@ -47,7 +47,7 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication:
+publication: "Experimental eye research, 251, 110214."
 publication_short: ""
 
 

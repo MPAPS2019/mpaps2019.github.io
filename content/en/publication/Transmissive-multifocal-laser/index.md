@@ -40,7 +40,7 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication:
+publication: "Journal of Innovative Optical Health Sciences, 2023, 16(5)"
 publication_short: ""
 
 

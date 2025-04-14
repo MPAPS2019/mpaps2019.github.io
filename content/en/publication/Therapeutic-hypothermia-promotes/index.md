@@ -43,7 +43,7 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication:
+publication: "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism, 39(10), 1961–1973."
 publication_short: ""
 
 

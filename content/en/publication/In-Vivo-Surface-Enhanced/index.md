@@ -43,7 +43,7 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication:
+publication: "Small Methods. 2023"
 publication_short: ""
 
 

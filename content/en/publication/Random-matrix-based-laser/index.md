@@ -45,7 +45,8 @@ url_video: ''
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
 publication:
-publication_short: ""
+publication_short: "Biomed Opt"
+page: "pp. 1480-1493"
 
 
 
